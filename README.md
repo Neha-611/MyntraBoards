@@ -32,10 +32,7 @@ You can view the interactive Figma UI prototype [https://www.figma.com/proto/vqF
 - **Database**: SQLite.
 
 
-## Contact
 
-For any questions or feedback, feel free to reach out:
-nehabharti611@gmail.com
 
 - **Email**: nehabharti611@gmail.com
 - **GitHub**: [Neha-611](https://github.com/Neha-611)
